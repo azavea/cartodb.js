@@ -38,7 +38,7 @@ div.cartodb-share a {
   width: 14px;
   height: 14px;
   display: block;
-  color: #397DB8;
+  color: #177B57;
   font-size:10px;
   font-weight:bold;
   text-transform: uppercase;
@@ -223,7 +223,7 @@ div.cartodb-share a:active, div.cartodb-share a:hover:active {
   font-size: 13px;
   font-weight:bold;
   color:#fff;
-  background:#3D8FCA;
+  background:#68ad68;
 
   text-decoration:none;
 
@@ -878,7 +878,7 @@ only screen and (                min-resolution: 2dppx) {
   font:12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 .cartodb-mobile .cartodb-attribution a {
-  color: #0078A8;
+  color: #56AFEF;
 }
 .cartodb-mobile .cartodb-attribution li {
   padding: 0;
@@ -888,7 +888,7 @@ only screen and (                min-resolution: 2dppx) {
 }
 .cartodb-mobile .cartodb-attribution li a {
   text-transform: capitalize;
-  color: #0078A8;
+  color: #56AFEF;
 }
 .cartodb-mobile .backdrop {
   display:none;
@@ -1617,7 +1617,7 @@ div.cartodb-layer-selector-box div.cartodb-dropdown ul li a.switch {
   transition-duration: 180ms;
 
   text-decoration:none;
-  border:1px solid #44759E;
+  border:1px solid #177B57;
 }
 div.cartodb-layer-selector-box div.cartodb-dropdown ul li a.switch:before {
   position:absolute;
@@ -1651,7 +1651,7 @@ div.cartodb-layer-selector-box div.cartodb-dropdown ul li a.switch span.handle {
   -ms-border-radius: 12px;
   -o-border-radius: 12px;
   border-radius: 12px;
-  border: 1px solid #44759e;
+  border: 1px solid #177B57;
   background: #F2F2F2;
   z-index: 2;
   -webkit-transform-style: "linear";
@@ -1669,12 +1669,12 @@ div.cartodb-layer-selector-box div.cartodb-dropdown ul li a.switch span.handle {
   transition-duration: 180ms;
 }
 div.cartodb-layer-selector-box div.cartodb-dropdown ul li a.switch.enabled {
-  border-color:#44759E;
-  background:#56AFEF;
+  border-color:#177B57;
+  background:#68ad68;
 }
 div.cartodb-layer-selector-box div.cartodb-dropdown ul li a.switch.enabled span.handle {
   left:12px;
-  border-color:#44759E;
+  border-color:#177B57;
 }
 div.cartodb-layer-selector-box div.cartodb-dropdown ul li a.switch.disabled {
   opacity:1;
